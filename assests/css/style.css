@@ -1,0 +1,15 @@
+body{
+  background-color: powderblue;
+}
+.head1 {
+  font-size:40px;
+  color: coral;
+  font-weight:bold;
+}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:150px;
+
+}
